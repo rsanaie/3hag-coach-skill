@@ -1,0 +1,12 @@
+{
+  "name": "3HAG Coach Marketplace",
+  "description": "Strategic planning skills using the 3HAG methodology",
+  "plugins": [
+    {
+      "name": "3hag-coach",
+      "description": "Coach users through Shannon Susko's 3HAG (3 Year Highly Achievable Goal) strategic planning framework from '3HAG WAY'",
+      "version": "1.0.0",
+      "path": "."
+    }
+  ]
+}
