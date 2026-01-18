@@ -30,14 +30,14 @@ The 3HAG methodology creates a "3 Year Highly Achievable Goal" — close enough 
 ## Installation
 
 ```bash
-git clone https://github.com/rsanaie/3hag-coach-plugin.git ~/.claude/skills/3hag-coach
+git clone https://github.com/rsanaie/3hag-coach-skill.git ~/.claude/skills/3hag-coach
 ```
 
 Or symlink if you want to keep it elsewhere:
 
 ```bash
-git clone https://github.com/rsanaie/3hag-coach-plugin.git
-ln -s "$(pwd)/3hag-coach-plugin" ~/.claude/skills/3hag-coach
+git clone https://github.com/rsanaie/3hag-coach-skill.git
+ln -s "$(pwd)/3hag-coach-skill" ~/.claude/skills/3hag-coach
 ```
 
 ## Usage
