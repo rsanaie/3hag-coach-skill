@@ -1,16 +1,18 @@
 {
   "name": "3hag-coach-marketplace",
-  "description": "Strategic planning skills using the 3HAG methodology",
   "owner": {
-    "name": "rsanaie",
-    "url": "https://github.com/rsanaie"
+    "name": "rsanaie"
+  },
+  "metadata": {
+    "description": "Strategic planning skills using the 3HAG methodology",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "3hag-coach",
-      "description": "Coach users through Shannon Susko's 3HAG (3 Year Highly Achievable Goal) strategic planning framework from '3HAG WAY'",
-      "version": "1.0.0",
-      "source": "."
+      "source": "./",
+      "description": "Coach users through Shannon Susko's 3HAG strategic planning framework",
+      "version": "1.0.0"
     }
   ]
 }
